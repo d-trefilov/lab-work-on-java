@@ -1,0 +1,19 @@
+{
+  "automobiles": [
+    {
+      "brand": "Toyota",
+      "model": "Camry",
+      "year": 2020
+    },
+    {
+      "brand": "BMW",
+      "model": "X5",
+      "year": 2019
+    },
+    {
+      "brand": "Toyota",
+      "model": "Corolla",
+      "year": 2021
+    }
+  ]
+}

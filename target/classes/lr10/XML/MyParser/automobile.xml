@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<automobiles>
+    <automobile>
+        <brand>Toyota</brand>
+        <model>Camry</model>
+        <year>2020</year>
+    </automobile>
+    <automobile>
+        <brand>BMW</brand>
+        <model>X5</model>
+        <year>2018</year>
+    </automobile>
+</automobiles>
